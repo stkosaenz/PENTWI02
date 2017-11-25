@@ -1,8 +1,9 @@
 # PENTWI02
 Building Responsive UI with Bootstrap
 
-#Contents
+# Contents
 * [Introduction to Bootstrap](01-Introduction_to_Bootstrap/HelloBootstrap)
+* [Components](02-Components/HelloComponents)
 
 Excercises for the course
 # Contributors
