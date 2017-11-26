@@ -6,6 +6,7 @@ Building Responsive UI with Bootstrap
 * [Components](02-Components/HelloComponents)
 * [Page Design](03-Page_Design/BootstrapPageDesign)
 * [Visual Studio & ASP.NET Integration](04-VS_Integration/)
+* [Javascript Functions](05-Javascript_Functions/)
 
 
 Excercises for the course
