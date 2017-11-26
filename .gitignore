@@ -32,3 +32,6 @@ Version.cpp
 
 /.vs
 .vs
+
+node_modules
+bower_components
