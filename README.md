@@ -8,6 +8,7 @@ Building Responsive UI with Bootstrap
 * [Visual Studio & ASP.NET Integration](04-VS_Integration/)
 * [Javascript Functions](05-Javascript_Functions/)
 * [Bootstrap with LESS](06-LESS/)
+* [Bootstrap in the real World](07-Bootstrap_in_Real_World)
 
 Excercises for the course
 # Contributors
